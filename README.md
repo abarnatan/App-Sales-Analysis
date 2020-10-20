@@ -1,6 +1,6 @@
 # pandas-challenge
 
-The purpose of this code is to analize in-app purchase data of a mobile game. The script is meant to creat data frames for the following scenarios:  
+The purpose of this code is to analize in-app purchase data of a mobile game. The script is meant to create data frames for the following scenarios:  
 
 - Total number of players 
 
