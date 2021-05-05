@@ -3,15 +3,15 @@
 ## Scope:
 The purpose of this code is to analize in-app purchase data of a mobile game. The goal is to create data frames for the following criteria:  
 
-#### Total number of players 
+- Total number of players 
 
-#### General purchasing analysis
+- Purchasing analysis
 	- Number of Unique Items
 	- Average Purchase Price
 	- Total Number of Purchases
 	- Total Revenue
 
-#### Gender Demographics
+- Gender Demographics
 	- Percentage and Count of Male Players
 	- Percentage and Count of Female Players
 	- Percentage and Count of Other / Non-Disclosed
@@ -34,8 +34,7 @@ The purpose of this code is to analize in-app purchase data of a mobile game. Th
 	- Average Purchase Price
 	- Total Purchase Value
 
-- Most Profitable Items
-Identify the 5 most profitable items by total purchase value, then list (in a table):
+- 5 Most Profitable Items with details:
 	- Item ID
 	- Item Name
 	- Purchase Count
