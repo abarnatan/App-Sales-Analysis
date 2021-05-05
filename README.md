@@ -1,16 +1,17 @@
-# pandas-challenge
+# Heroes of Pymoli In App Sales Analysis 
 
-The purpose of this code is to analize in-app purchase data of a mobile game. The script is meant to create data frames for the following scenarios:  
+## Scope:
+The purpose of this code is to analize in-app purchase data of a mobile game. The goal is to create data frames for the following criteria:  
 
-- Total number of players 
+#### Total number of players 
 
-- General purchasing analysis
+#### General purchasing analysis
 	- Number of Unique Items
 	- Average Purchase Price
 	- Total Number of Purchases
 	- Total Revenue
 
-- Gender Demographics
+#### Gender Demographics
 	- Percentage and Count of Male Players
 	- Percentage and Count of Female Players
 	- Percentage and Count of Other / Non-Disclosed
