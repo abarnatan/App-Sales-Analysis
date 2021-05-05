@@ -41,3 +41,7 @@ The purpose of this code is to analize in-app purchase data of a mobile game. Th
 	- Item Price
 	- Total Purchase Value
 
+## Contact:
+- Alejandro Barnatan
+- ale.barn19@gmail.com
+- 503.867.3455
