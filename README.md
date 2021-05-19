@@ -40,6 +40,7 @@ The purpose of this code is to analize in-app purchase data of a mobile game. Th
 	- Purchase Count
 	- Item Price
 	- Total Purchase Value
+![image](https://user-images.githubusercontent.com/70718724/118746430-1cab3500-b80d-11eb-8346-67333df0e770.png)
 
 ## Contact:
 - Alejandro Barnatan
