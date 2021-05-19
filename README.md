@@ -1,8 +1,9 @@
 # Heroes of Pymoli In App Sales Analysis 
 
 ## Scope:
-The purpose of this code is to analize in-app purchase data of a mobile game. The goal is to create data frames for the following criteria:  
+The purpose of this code is to analize in-app purchase data of a mobile game and visualize the data in data frames. 
 
+The goal is to create data frames for the following criteria:  
 - Total number of players 
 
 - Purchasing analysis
