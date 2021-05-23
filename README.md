@@ -5,6 +5,7 @@ The purpose of this code is to analize in-app purchase data of a mobile game and
 
 The goal is to create data frames for the following criteria:  
 - Total number of players 
+![image](https://user-images.githubusercontent.com/70718724/119277474-ca835e80-bbd4-11eb-9dfb-1f78fae0d719.png)
 
 - Purchasing analysis
 	- Number of Unique Items
