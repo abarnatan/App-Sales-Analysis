@@ -1,10 +1,9 @@
 # Heroes of Pymoli In App Sales Analysis 
 
 ## Scope:
-The purpose of this project is to analize in-app purchase data of a mobile game and visualize the data in data frames. Once the data frames are created, what are three key insights and recommendations?  
+The purpose of this project is to analize in-app purchase data of a mobile game and visualize the data in data frames. Once the data frames are created, make three recommendations based on key trends found. 
   
-### The following data frames were created to analyze the date and make my recommendations: 
-
+### The following data frames were created to analyze the data and make my recommendations: 
 
 ![image](https://user-images.githubusercontent.com/70718724/119277509-01f20b00-bbd5-11eb-9a90-2ae5ffccfd9d.png)
 
@@ -23,6 +22,11 @@ The purpose of this project is to analize in-app purchase data of a mobile game 
 ![image](https://user-images.githubusercontent.com/70718724/119277771-5c3f9b80-bbd6-11eb-857c-b389dbaaeb74.png)
 
 ![image](https://user-images.githubusercontent.com/70718724/119277776-5fd32280-bbd6-11eb-9bda-7d0cdc24ff69.png)
+
+### Recommendations: 
+
+
+![image](https://user-images.githubusercontent.com/70718724/119277869-ea1b8680-bbd6-11eb-8e98-1213aad66db9.png)
 
 
 
